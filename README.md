@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=Telepatia2011&color=blue)
 <div align="center">
  <a href="https://github.com/Telepatia2011">
