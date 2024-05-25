@@ -7,8 +7,6 @@
 
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
-
 - 🔭 I’m currently working on **JavaScript**
 
 
