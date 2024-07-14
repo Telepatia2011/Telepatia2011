@@ -7,7 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://discord.gg/2011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@txlepatiam" height="30" width="40" /></a>
 </p>
 
 
